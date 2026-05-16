@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/emal-sa/EmalSa-Cloud-Stream-Extension/main/icon/PersonalVideo/home-video.png",
+        "fileHash": "sha256-72dbfd293a28c6c34aacd49c424a44b9fc89a1bf351172a707cf79f1203bca6d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/emal-sa/EmalSa-Cloud-Stream-Extension",
+        "fileSize": 18399,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Emal Sa"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PersonalVideo",
+        "description": "Video catalog delivered via HTTP request",
+        "url": "https://raw.githubusercontent.com/emal-sa/EmalSa-Cloud-Stream-Extension/builds/PersonalVideo.cs3",
+        "name": "Personal Video"
+    }
+]
