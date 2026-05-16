@@ -1,9 +1,13 @@
 {
-  "name": "Personal Video CloudStream",
+  "name": "EmalSa-Cloud-Stream-Extension",
   "build": {
     "dockerfile": "Dockerfile",
     "context": "."
   },
+  "runArgs": [
+    "--name",
+    "EmalSa-Cloud-Stream-Extension"
+  ],
   "remoteUser": "vscode",
   "customizations": {
     "vscode": {
