@@ -1,0 +1,19 @@
+{
+  "catalog_name": "Personal Video",
+  "contents": [
+    {
+      "title": "Matrix",
+      "plot": "A programmer discovers the truth about his world.",
+      "category": "Movies",
+      "poster": "Poster/matrix.jpg",
+      "video_url": "Movies/Matrix.mp4"
+    },
+    {
+      "title": "Example S01E01",
+      "plot": "First episode.",
+      "category": "Series",
+      "poster": "Poster/example.jpg",
+      "video_url": "Series/Example S01E01.mp4"
+    }
+  ]
+}

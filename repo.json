@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://raw.githubusercontent.com/emal-sa/EmalSa-Cloud-Stream-Extension/main/icon/Repo/emal-sa.png",
+  "name": "Emal's Repo",
+  "description": "A plugin repository for CloudStream.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/emal-sa/EmalSa-Cloud-Stream-Extension/builds/plugins.json"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Personal Video CloudStream",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "redhat.java",
+        "vscjava.vscode-gradle",
+        "fwcd.kotlin"
+      ]
+    }
+  }
+}
